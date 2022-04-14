@@ -1,0 +1,27 @@
+PID,Trial,Locomotion (Leaning/Walking/Joystick),Posture (Sitting/Standing)
+PS00,1,DroneBody,Sitting
+PS00,2,DroneController,Sitting
+PS01,1,DroneBody,Sitting
+PS01,2,DroneBody,Sitting
+PS01,3,DroneController,Sitting
+PS01,4,DroneController,Sitting
+PS02,1,DroneController,Sitting
+PS02,2,DroneController,Sitting
+PS02,3,DroneBody,Sitting
+PS02,4,DroneBody,Sitting
+PS03,1,DroneBody,Sitting
+PS03,2,DroneBody,Sitting
+PS03,3,DroneController,Sitting
+PS03,4,DroneController,Sitting
+PS04,1,DroneController,Sitting
+PS04,2,DroneController,Sitting
+PS04,3,DroneBody,Sitting
+PS04,4,DroneBody,Sitting
+PS05,1,DroneBody,Sitting
+PS05,2,DroneBody,Sitting
+PS05,3,DroneController,Sitting
+PS05,4,DroneController,Sitting
+PS06,1,DroneController,Sitting
+PS06,2,DroneController,Sitting
+PS06,3,DroneBody,Sitting
+PS06,4,DroneBody,Sitting
